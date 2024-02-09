@@ -70,3 +70,8 @@ footer a:hover {
     border-radius: 15px;
     background-color: pink;
 }
+
+h1, h2, h3 {
+    color: midnightblue;
+    text-shadow: 4px 4px 2px rgb(248, 115, 137);
+}
